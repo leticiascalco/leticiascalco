@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 # Bem-vindo(a) ao meu perfil GitHub! 🌊👩‍💻
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 // Olá! Sou uma desenvolvedora de software, originalmente do litoral de São Paulo, agora explorando a vibrante vida na capital paulistana. Minha jornada em programação começou em # 
 // 2011 na Escola Técnica Estadual de Praia Grande - SP, onde me apaixonei pela arte de criar soluções através do código. Desde então, persegui essa paixão, complementando minha # 
 // educação formal em Sistemas de Informação com cursos especializados e experiência prática em uma variedade de tecnologias e projetos.
+
+-->
 
 ## Educação 📚
 - **Tecnólogo de Ciências de Dados** (Em andamento)

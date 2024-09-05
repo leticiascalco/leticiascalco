@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 // 2011 na Escola Técnica Estadual de Praia Grande - SP, onde me apaixonei pela arte de criar soluções através do código. Desde então, persegui essa paixão, complementando minha # 
 // educação formal em Sistemas de Informação com cursos especializados e experiência prática em uma variedade de tecnologias e projetos.
 
--->
+
 
 ## Educação 📚
 - **Tecnólogo de Ciências de Dados** (Em andamento)
@@ -64,5 +64,5 @@ Sinta-se à vontade para entrar em contato ou explorar meus repositórios. Estou
 
 - **E-mail:** [leticiascalco.info@gmail.com](mailto:leticiascalco.info@gmail.com)
 - **LinkedIn:** [leticia-scalco-0806276b](https://www.linkedin.com/in/leticia-scalco-0806276b/)
-
+-->
 
